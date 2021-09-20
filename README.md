@@ -6,7 +6,7 @@ This [Hack](http://hacklang.org) package allows one to search and extract elemen
 
 ## Requirements
 
-HHVM 4.125 and above.
+HHVM 4.123 and above.
 
 ## Installation
 
