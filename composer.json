@@ -1,0 +1,26 @@
+{
+    "name": "ajayvohra2005/hack-jmespath",
+    "type": "library",
+    "description": "JMESPath search in Hacklang",
+    "keywords": ["jmespath","hack","hacklang"],
+    "homepage": "https://github.com/ajayvohra2005/hack-jmespath.git",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ajay Vohra",
+            "email": "ajay.vohra2000@gmail.com",
+            "role": "Developer"
+        }
+    ],
+
+    "require": {
+        "hhvm/hsl": "^4.108",
+        "hhvm/hhvm-autoload": "^3.3",
+        "hhvm/hsl-experimental": "^4.50"
+    },
+    "require-dev": {
+        "hhvm/hhast": "^4.123",
+        "hhvm/hacktest": "^2.2",
+        "facebook/fbexpect": "^2.8"
+    }
+}
