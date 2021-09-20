@@ -76,7 +76,7 @@ See [```tests/TreeInterpreterTest.hack```](tests/TreeInterpreterTest.hack) for a
 
 ## Decoding JSON Data Types
 
-JSON 'object' type must be represented by a [Hack\dict](https://docs.hhvm.com/hack/arrays-and-collections/introduction) object. The ```stdClass``` is not supported for a JSON 'object'. This means if you use the Hack built-in function ```json_decode()```, the second argument in the function call must be ```true``` so that associative arrays are used.
+JSON 'object' type must be represented by a [Hack dict](https://docs.hhvm.com/hack/arrays-and-collections/introduction. The ```stdClass``` is not supported for a JSON 'object'. This means if you use the Hack built-in function ```json_decode()```, the second argument in the function call must be ```true``` so that associative arrays are used.
 
 ## JMESPath Query Language
 
