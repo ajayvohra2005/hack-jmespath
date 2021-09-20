@@ -4,6 +4,10 @@
 
 This [Hack](http://hacklang.org) package allows one to search and extract elements from a JSON document using [JMESPath](http://jmespath.org) query language. 
 
+## Requirements
+
+HHVM 4.125 and above.
+
 ## Installation
 
 * Git clone this repository
