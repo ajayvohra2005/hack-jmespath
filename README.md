@@ -12,6 +12,10 @@ This [Hack](http://hacklang.org) package allows one to search and extract elemen
   
         composer install
 
+To use this package,
+
+        composer require ajayvohra2005/hack-jmespath
+        
 ## Running Tests
 After installation, run the following command in the root directory of this repository:
 
